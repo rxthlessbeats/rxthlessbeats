@@ -62,7 +62,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,c,cpp,css,docker,figma,firebase,flask,flutter,gcp,git,github,html,java,js,heroku,kotlin,linux,md,materialui,mysql,nextjs,nodejs,postman,py,r,react,redux,sass,stackoverflow,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,c,cpp,css,docker,figma,firebase,flask,flutter,gcp,git,github,html,js,heroku,linux,md,materialui,mysql,nextjs,nodejs,postman,py,r,react,redux,sass,stackoverflow,vscode&perline=10" />
   </a>
 </p>
 
