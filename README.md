@@ -15,10 +15,15 @@
        alt="snake" /></a>
 </div>
 
+</br>
+</br>
+
 > “Data are just summaries of thousands of stories – tell a few of those stories to help make the data meaningful.” 
 >
 > — Chip and Dan Heath
 
+</br>
+</br>
 
 <!--Intro start-->
 - 📝 I'm a student in National Tsing-Hua University major in **Data Science & Quantitative Finance**
