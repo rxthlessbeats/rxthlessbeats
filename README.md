@@ -11,7 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/soumyaray/soumyaray/blob/output/github-contribution-grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
        alt="snake" /></a>
 </div>
 
