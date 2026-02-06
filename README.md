@@ -49,16 +49,10 @@
 
 -----
 
-
- <br>
- <br>
  <p align="center">
-  <img height="150" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"/>
- </P><br>
-  
- 
- 
- 
+  <img height="250" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b"/>
+ </P>
+
 ----------------
 
 <!--h1 without bottom border-->
