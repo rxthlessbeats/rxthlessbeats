@@ -32,11 +32,11 @@
 </div>
 
 <!--Intro start-->
-- 📝 I'm a student in National Tsing-Hua University major in **Data Science & Quantitative Finance**
+- 📝 I'm a student in University of Southern California major in **Machine Learning and Data Science**.
 
-- 🔭 I’m currently working on **Nextjs**
+- 🔭 I’m currently working on **Quant trading, Machine Learning, Deep Learning**
 
-- 🌱 I’m currently learning **Data Engineering, Machine Learning, Data Fabric, LangChain**
+- 🛠️ Applications: **PyTorch, Pydantic, AutoGen, LangChain, Neo4j, Git, Streamlit, Django, Docker, MySQL, GCP, React, Vue, Tableau**
 
 - ☁️ Programming Languages: **Python, R, SQL, Javascript, C**
 
