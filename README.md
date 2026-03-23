@@ -23,11 +23,10 @@
 > — Chip and Dan Heath
 
 </br>
-</br>
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h2 style="display: inline-block">About Me</h2></summary>
+    <summary><h2 style="display: inline-block">👨‍💻 About Me</h2></summary>
   </ul>
 </div>
 
@@ -46,6 +45,22 @@
 
 - 🏠 **Coding, Fitness, Hiphop Music**
 <!--Intro end-->
+</br>
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h2 style="display: inline-block">📄 Publication</h2></summary>
+  </ul>
+</div>
+
+### **MenTeR: A Fully-Automated Multi-Agent Workflow for End-to-End RF/Analog Circuits Netlist Design**
+**Conference:** *IEEE ICLAD 2025*   
+
+**Overview:**  
+- Developed a LLM-based agent system with AutoGen to develop a robust SPICE code generator, using CoT, MoE, RAG.
+- Achieved nearly 100% accuracy, surpassing the previous state-of-the-art result of 76.1%.
+
+</br>
 
 -----
 
